@@ -2,7 +2,7 @@ namespace: Integrations.hcm202105_demo
 flow:
   name: deploy_aos
   inputs:
-    - target_host: needtoenterip
+    - target_host: demo.hcmx.local
     - target_host_username: root
     - target_host_password:
         default: Cloud_1234
